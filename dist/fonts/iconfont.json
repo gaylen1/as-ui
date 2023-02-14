@@ -1,0 +1,79 @@
+{
+  "id": "3774316",
+  "name": "as-ui",
+  "font_family": "as-ui-icons",
+  "css_prefix_text": "as-ui-",
+  "description": "安盛ui",
+  "glyphs": [
+    {
+      "icon_id": "629357",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "1304894",
+      "name": "展开菜单",
+      "font_class": "zhankaicaidan",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4347520",
+      "name": "icon_添加",
+      "font_class": "icon_tianjia",
+      "unicode": "eb89",
+      "unicode_decimal": 60297
+    },
+    {
+      "icon_id": "4611765",
+      "name": "对勾",
+      "font_class": "duigou",
+      "unicode": "ebe6",
+      "unicode_decimal": 60390
+    },
+    {
+      "icon_id": "10515220",
+      "name": "折叠",
+      "font_class": "zhedie",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "1727533",
+      "name": "307感叹号-线性圆框",
+      "font_class": "gantanhao-xianxingyuankuang",
+      "unicode": "e8ec",
+      "unicode_decimal": 59628
+    },
+    {
+      "icon_id": "2076399",
+      "name": " 问号小",
+      "font_class": "wenhaoxiao",
+      "unicode": "e8c8",
+      "unicode_decimal": 59592
+    },
+    {
+      "icon_id": "10384793",
+      "name": "叉号",
+      "font_class": "chahao1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "338291",
+      "name": "申请成功",
+      "font_class": "shenqingchenggong",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "1646228",
+      "name": "取消",
+      "font_class": "quxiao",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}

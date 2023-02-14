@@ -1,0 +1,1 @@
+{"version":3,"file":"component.mjs","sources":["../../../packages/as-ui/component.ts"],"sourcesContent":["import type { Plugin } from 'vue'\nimport { AsButton } from '@as-ui/components/button'\nimport { AsIcon } from '@as-ui/components/icon'\n\nexport default [AsIcon, AsButton] as Plugin[]\n"],"names":[],"mappings":";;;AAIA,iBAAe,CAAC,QAAQ,QAAQ,CAAA;;;;"}

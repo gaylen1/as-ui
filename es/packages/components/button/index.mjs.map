@@ -1,0 +1,1 @@
+{"version":3,"file":"index.mjs","sources":["../../../../../../packages/components/button/index.ts"],"sourcesContent":["import { withInstall } from '@as-ui/utils/install'\nimport Button from './src/button.vue'\n\nexport const AsButton = withInstall(Button)\n\nexport default AsButton\n\nexport * from './src/button'\n"],"names":[],"mappings":";;;;AAGa,MAAA,QAAA,GAAW,YAAY,MAAM;;;;"}

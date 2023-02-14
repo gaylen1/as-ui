@@ -1,0 +1,1 @@
+{"version":3,"file":"index.mjs","sources":["../../../../../../packages/components/icon/index.ts"],"sourcesContent":["import Icon from './src/icon.vue'\nimport { withInstall } from '@as-ui/utils/install'\n\nexport const AsIcon = withInstall(Icon)\n\nexport default AsIcon\n"],"names":[],"mappings":";;;AAGa,MAAA,MAAA,GAAS,YAAY,IAAI;;;;"}
